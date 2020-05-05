@@ -10,3 +10,5 @@ My favorite player is **Lebron James**.
 
 In my opinion he is the greatest athlete of all time.
 ![Lebron James](https://fadeawayworld.net/wp-content/uploads/2020/04/Mikal-Bridges-Says-LeBron-James-Would-Average-90-Points-On-The-86-Celtics.jpg?x46336)
+
+[Next Page](it1000-final/LEARN.md)
