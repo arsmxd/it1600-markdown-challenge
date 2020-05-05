@@ -34,4 +34,4 @@ function fizzbuzz() {
 </html>``
 
 
-[Next Page](it1000-final/INTEREST.md)
+[Next Page](INTEREST.md)
