@@ -4,6 +4,7 @@ I have learned about
 * Coding in several different languages
 * Debugging 
 * So much more
+
 Here is an example of a block of code I wrote earlier this semester.
 ``<!DOCTYPE html>
 <html>
