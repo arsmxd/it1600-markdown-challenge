@@ -5,7 +5,8 @@ I have learned about
 * Debugging 
 * So much more
 
-Here is an example of a block of code I wrote earlier this semester.
+Here is an example of a block of code I wrote earlier this semester:
+
 ``<!DOCTYPE html>
 <html>
 <head>
