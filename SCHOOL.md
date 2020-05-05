@@ -7,3 +7,5 @@ The main street on campus is named after **Rollins**
 * Max Scherzer
 * Brad Pitt
 For more information check out the [mizzou](https://missouri.edu/) website!
+
+[Next Page](it1000-final/LEARN.md)
