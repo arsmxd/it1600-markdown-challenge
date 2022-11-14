@@ -1,4 +1,4 @@
-# it1000-final
+# it1600 
 The final exam project for MIZ INFOTECH 1000 created by Austin Smith
 ## All About Me
 My name is Austin and I attend the University of Missouri. I am studying Information Technology in the College of Engineering. 
