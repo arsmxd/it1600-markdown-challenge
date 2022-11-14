@@ -1,5 +1,5 @@
 # What I have Learned 
-As a student studying Information Technology, I have learned many things in my first year.
+As a student studying Information Technology, I have learned many things my years here.
 I have learned about
 * Coding in several different languages
 * Debugging 
